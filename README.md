@@ -52,6 +52,10 @@ The executable file will be generated inside the dist/ folder.
 
 ## Notes
 
-a) Allow Python through Windows Firewall (Private Network)
-b) Server must be running before clients connect
-c) .exe and database files are not included in this repository
+- Allow Python through Windows Firewall (Private Network)
+- Server must be running before clients connect
+- .exe and database files are not included in this repository
+
+## License
+MIT License  
+This project is for learning purposes only.
