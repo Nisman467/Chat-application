@@ -30,10 +30,14 @@ in real time over the same local network (LAN) using socket programming.
 inside the cmd prompt/ vs code terminal
 
 ### Start Server
+```bash
 python server.py
+```
 
-###Start Gui
+### Start Gui
+```bash
 python client_gui.py
+```
 
 ### Use server IP as your LAN IP-address
 SERVER_IP = "192.168.x.x"
